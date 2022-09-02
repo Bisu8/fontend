@@ -1,0 +1,34 @@
+.row{
+    text-align: center;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: larger;
+}
+.abt{
+    text-align: center;
+    font-family: Trirong;
+    font-weight: 800;
+    color: white;
+    letter-spacing: 2px;
+}
+#t1{
+    background-color: linear-gradient(90deg,indigo,red);
+    border-radius: 8px;
+    border-color: blue;
+    color: black;
+    font-size: italic;
+    font-family: Sofia;
+}
+.btn{
+    background-color: green;
+    color: white;
+    border-color: transparent;
+    border-radius: 8px;
+    font-size: larger;
+}
+.btn:hover{
+    background-color: darkturquoise;
+    cursor: pointer;
+}
